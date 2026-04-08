@@ -4,7 +4,7 @@ public class BankLoanApprovalSystem {
     public static void main(String[] args) { 
 
         Scanner sc = new Scanner(System.in);
-  
+   
         int creditScore = sc.nextInt();
         double annualIncome = sc.nextDouble();
         double debtRatio = sc.nextDouble();
