@@ -9,7 +9,7 @@ public class dataType {
         char ch = 'A'; 
         short hl = 895;
         
-        // Non-primitive data Type.....
+        // Non-primitive data Type..... 
         String name = "Maickelraj";
 
 
