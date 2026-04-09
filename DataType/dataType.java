@@ -6,7 +6,7 @@ public class dataType {
         float deci = 23.58f;
         double maxDeci = 58.0950;
         boolean isboolean = true;
-        char ch = 'A'; 
+        char ch = 'A';  
         short hl = 895;
         
         // Non-primitive data Type..... 
