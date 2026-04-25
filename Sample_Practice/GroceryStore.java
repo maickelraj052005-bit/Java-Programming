@@ -6,7 +6,7 @@ public class GroceryStore {
         System.out.print("Enter the total Amount : ");
         int totalamt = sc.nextInt();
 
-        System.out.print("Enter the percentage : ");
+        System.out.print("Enter the percentage : "); 
         int percentage = sc.nextInt();
 
         int pertanage1=(totalamt/100)*percentage;
