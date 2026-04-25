@@ -3,7 +3,7 @@ public class GroceryStore {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter the total Amount : ");
+        System.out.print("Enter the total Amount : "); 
         int totalamt = sc.nextInt();
 
         System.out.print("Enter the percentage : "); 
